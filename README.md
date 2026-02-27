@@ -1,8 +1,8 @@
-# OLT Script - Gerador de Provisionamento v1.0 🚀
+# OLT Script - v1.0 🚀
+O **OLT Script** é uma ferramenta profissional desenvolvida para simplificar e automatizar o provisionamento de ONUs em OLTs de diversos fabricantes. Com uma interface moderna e integração com IA, ele transforma a tarefa de gerar scripts complexos em um processo rápido e seguro.
 
 ![Screenshot do App](screenshot.png)
 
-O **OLT Script** é uma ferramenta profissional desenvolvida para simplificar e automatizar o provisionamento de ONUs em OLTs de diversos fabricantes. Com uma interface moderna e integração com IA, ele transforma a tarefa de gerar scripts complexos em um processo rápido e seguro.
 
 ## ✨ Funcionalidades (v1.0)
 
@@ -46,3 +46,4 @@ O **OLT Script** é uma ferramenta profissional desenvolvida para simplificar e 
 
 Desenvolvido por **Bruce Kawly**
 © 2026 Todos os direitos reservados.
+
